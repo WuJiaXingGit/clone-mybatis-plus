@@ -12,6 +12,7 @@ import org.apache.ibatis.session.Configuration;
 public interface ConfigurationCustomizer {
 
     /**
+     * ff
      * ededede
      * Customize the given a {@link Configuration} object.
      * @param configuration the configuration object to customize
